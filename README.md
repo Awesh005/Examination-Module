@@ -108,20 +108,15 @@ useEffect(() => {
 
 ## 📸 Screenshots
 
-![Screenshot 1](screenshot/Screenshot 2025-04-14 231340.png)
-...
+![Screenshot 1](Screenshot 2025-04-14 231340.png)
 
 ![Screenshot 2](screenshot/Screenshot 2025-04-14 231359.png)
-...
 
 ![Screenshot 3](screenshot/Screenshot 2025-04-14 231424.png)
-...
 
 ![Screenshot 4](screenshot/Screenshot 2025-04-14 231501.png)
-...
 
 ![Screenshot 5](screenshot/Screenshot 2025-04-14 231541.png)
-...
 
 ---
 
