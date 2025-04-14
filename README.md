@@ -1,36 +1,16 @@
-# 📚 ExamFaculty Authentication and Profile (MERN Stack)
-
-This module handles login and profile functionalities for **ExamFaculty users** in a MERN-based application.
-
-## 🌐 Tech Stack
-
-- **Frontend**: React, Axios, React Router
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT (stored in MongoDB for now)
+Here’s your full **README.md** with the screenshots section added at the end:
 
 ---
 
-## 🔐 Faculty Login Flow
-
-### 1. Login Form (`FacultyLogin.jsx`)
-- Accepts email and password.
-- Sends a `POST` request to `/api/faculty/login`.
-- On successful login:
-  - Stores the returned token using `localStorage` or React Context.
-  - Redirects the user to `/faculty/profile`.
-
-```js
-
 # 📚 ExamFaculty Authentication and Profile (MERN Stack)
 
 This module handles login and profile functionalities for **ExamFaculty users** in a MERN-based application.
 
 ## 🌐 Tech Stack
 
-- **Frontend**: React, Axios, React Router
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Frontend**: React, Axios, React Router  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
 - **Authentication**: JWT (stored in MongoDB for now)
 
 ---
@@ -127,6 +107,24 @@ useEffect(() => {
 
 ---
 
+## 📸 Screenshots
+
+![Screenshot 1](Screenshot 2025-04-14 231340.png)
+
+![Screenshot 2](Screenshot 2025-04-14 231359.png)
+
+![Screenshot 3](Screenshot 2025-04-14 231424.png)
+
+![Screenshot 4](Screenshot 2025-04-14 231501.png)
+
+![Screenshot 5](Screenshot 2025-04-14 231541.png)
+
+---
+
 ## 💬 Author & Contact
 
-Built by Md Awesh. For feedback or queries, feel free to reach out!
+Built by **Md Awesh**. For feedback or queries, feel free to reach out!
+
+---
+
+Would you like this saved as a `.md` file now?
