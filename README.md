@@ -129,4 +129,4 @@ useEffect(() => {
 
 ## 💬 Author & Contact
 
-Built by [Your Name]. For feedback or queries, feel free to reach out!
+Built by Md Awesh. For feedback or queries, feel free to reach out!
