@@ -105,6 +105,7 @@ useEffect(() => {
         └── Faculty.js
 ```
 
+
 ---
 
 ## 📸 Screenshots
