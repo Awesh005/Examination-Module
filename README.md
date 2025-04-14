@@ -1,5 +1,3 @@
-Here’s your full **README.md** with the screenshots section added at the end:
-
 ---
 
 # 📚 ExamFaculty Authentication and Profile (MERN Stack)
@@ -110,15 +108,15 @@ useEffect(() => {
 
 ## 📸 Screenshots
 
-![Screenshot 1](Screenshot 2025-04-14 231340.png)
+![Screenshot 1](screenshot/Screenshot 2025-04-14 231340.png)
 
-![Screenshot 2](Screenshot 2025-04-14 231359.png)
+![Screenshot 2](screenshot/Screenshot 2025-04-14 231359.png)
 
-![Screenshot 3](Screenshot 2025-04-14 231424.png)
+![Screenshot 3](screenshot/Screenshot 2025-04-14 231424.png)
 
-![Screenshot 4](Screenshot 2025-04-14 231501.png)
+![Screenshot 4](screenshot/Screenshot 2025-04-14 231501.png)
 
-![Screenshot 5](Screenshot 2025-04-14 231541.png)
+![Screenshot 5](screenshot/Screenshot 2025-04-14 231541.png)
 
 ---
 
